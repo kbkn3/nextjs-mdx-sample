@@ -1,0 +1,29 @@
+{
+  "editor.rulers": [80],
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.codeActionsOnSave":{
+    "source.organizeImports.biome": "explicit"
+  },
+  "cSpell.words": [
+    "Hanchan",
+    "hono",
+    "Interactor",
+    "inversify",
+    "JPML",
+    "Saikyo",
+    "stringable",
+    "TENHO",
+    "USECASE",
+    "usecases",
+    "varchar"
+  ]
+}
